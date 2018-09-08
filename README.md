@@ -20,10 +20,10 @@ Educational | 京都大学薬学部 - 卒業（2015.3）
 
 |技術項目|備考|
 |---|---|
-|HTML / CSS / JavaScript / jQuery|実務経験8ヵ月。高度なデザイン性を求められないもの（業務システムなど）に関して画面を構築することができます。|
-|Angular / TypeScript|実務経験2ヵ月。趣味での開発6ヵ月。Ruby on RailsやSpring Bootなどのサーバーサイド（REST API）との連携を行いました。|
+|HTML / CSS / JavaScript / jQuery|実務経験11ヵ月。高度なデザイン性を求められないもの（業務システムなど）に関して画面を構築することができます。|
+|Angular / TypeScript|実務経験4ヵ月。趣味での開発8ヵ月。Ruby on RailsやSpringなどのサーバーサイド（REST API）との連携を行いました。|
 |Ruby on Rails|実務経験3ヵ月。趣味での開発8ヵ月。Deviseでの認証など、基本的な機能の実装が可能です。また、Capistranoを用いたAWSへのデプロイ経験もあります。|
-|Spring|実務経験4ヵ月。プロジェクトの基本設定以外は可能です。Thymeleafを用いて画面を作ったり、SPAへのREST APIを作ったりできます。|
+|Spring|実務経験7ヵ月。プロジェクトの基本設定以外は可能です。Thymeleaf/JSPを用いて画面を作ったり、SPAへのREST APIを作ったりできます。|
 |Express / Node|趣味で少し触れた程度。Google Homeに話しかけてLINE APIを叩かせるための簡易サーバーとして使ったことがあります。SpringやRailsの経験を活かして、調べ物をしながらどこをどういじれば機能をどう変えられるか、なんとなく想像がつく程度です。|
 |Python|趣味での開発3ヵ月。実務未経験の状態で、独学で数独を解くプログラムを実装しました。（https://github.com/NishiguchiHiromi/sudoku）（http://13.230.13.190/home/home）|
 |MySQL / PostgreSQL|基本的なSQLは実行可能です。MySQL WorkbenchやPostgre Adminの使用経験があります。|
